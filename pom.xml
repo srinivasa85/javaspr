@@ -15,7 +15,7 @@
 	<name>BusinessProject</name>
 	<description>Building Business related project using spring boot</description>
 	<properties>
-		<java.version>21.0</java.version>
+		<java.version>21.0.7</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
